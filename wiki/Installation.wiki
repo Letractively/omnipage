@@ -13,4 +13,4 @@ Installing OmiPage is an easy process that allows you to quickly be able to util
   * Follow the instructions on the [http://www.phpbb.com/support/documents.php?mode=install&version=3 phpBB Install Guide] to install phpBB on your server
 
 ==Install OmniPage==
-  * Download OmniPage by clicking on the "Downloads" tab above
+  * Download OmniPage by clicking on the "Downloads" tab above or check out the latest version of the source code
