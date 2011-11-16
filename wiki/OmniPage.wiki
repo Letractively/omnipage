@@ -21,3 +21,11 @@ The OmniPage system is also a skinnable system. The ability to use skins makes i
 ==Security==
 The OmniPage system also has native security features. All user accounts are integrated with a phpBB forums install. PhpBB has native usergroups, which the OmniCore uses to decide whether a user can see or edit a certain page. Some groups have global permissions while others can only deal with certain pages. Administrators also have the ability to give certain users or groups special permissions (that aren't native) for certain pages. This helps with maintaining website content; now any user can be responsible for a certain page and make sure it's up to date. This system also ensures security with regard to editing content.
 The OmniPage system also has native log features. When an administrative action is carried out, the system will automatically append an entry to a log text file with important information regarding the edit. Username, time, and the action are recorded. This record of events helps ensure security with administrative features.
+
+==In Use==
+OmniPage is meant to be customized and molded to the needs of any individual organization. Presently, it is installed on the websites of two non-profit organizations:
+
+  *http://uberbots.org The UberBots
+  *http://studentinit.org The Student Initiative (under construction but browsable)
+
+Please send in the link to your OmniPage-powered website so we can add it to the list.
