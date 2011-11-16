@@ -25,7 +25,7 @@ The OmniPage system also has native log features. When an administrative action 
 ==In Use==
 OmniPage is meant to be customized and molded to the needs of any individual organization. Presently, it is installed on the websites of two non-profit organizations:
 
-  *http://uberbots.org The UberBots
-  *http://studentinit.org The Student Initiative (under construction but browsable)
+  * http://uberbots.org The UberBots
+  * http://studentinit.org The Student Initiative (under construction but browsable)
 
 Please send in the link to your OmniPage-powered website so we can add it to the list.
