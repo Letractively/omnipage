@@ -1,0 +1,1 @@
+OmniPage is a web CMS written in PHP with extensive use of mySQL. OmniPage makes editing and customizing a website easy and simple. This CMS supports a permission hierarchy based on phpBB groups and permissions, as well as customizable skins.
